@@ -12,7 +12,7 @@ Full-stack + ML engineer. I ship software built around the people who use it.
 
 ## Stack
 
-`React` `TypeScript` `Node.js` `Python` `PostgreSQL` `PostGIS` `Docker` `Flask` `TensorFlow.js`
+`TypeScript` `React` `Node.js` `Python` `Flask` `PostgreSQL` `PostGIS` `TensorFlow.js` `Ollama` `Docker`
 
 ## Contact
 
