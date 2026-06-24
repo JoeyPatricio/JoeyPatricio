@@ -13,7 +13,7 @@ Full-stack + ML engineer. I ship software built around the people who use it.
 
 **[Welcome to America](https://welcome-to-america-lake.vercel.app)** *(Completed)* — Immigration resource finder. Interviewed immigrants first, rewrote the information architecture based on what they said, then built it. Searchable directory of 50+ organizations, filterable by category and ZIP, with multilingual support.
 
-**[Marine Debris Database](https://sssc-marine-debris-map.onrender.com/)** *(Completed)* — Marine Debris Database Application activly being used by the scientists at the Sitka Sound Science Center.
+**[Marine Debris Database](https://sssc-marine-debris-map.onrender.com/)** *(Completed)* — Marine Debris Database Application activly being used by 28+ scientists at the Sitka Sound Science Center. Logging, storing and visualizing 700+ real-world cleanup projects.
 
 ## Stack
 
