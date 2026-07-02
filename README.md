@@ -3,7 +3,9 @@
 Full-stack + ML engineer. I ship software built around the people who use it.
 
 ## Projects
-**[Sift](https://github.com/JoeyPatricio/Sift)** *(In Progress)* — Fault localization tool that distills chain-of-thought reasoning from a Claude teacher into a QLoRA-finetuned 3B student to pinpoint the exact file and line range responsible for a failing test — trained on SWE-bench within a small API budget.
+**[Sift](https://github.com/JoeyPatricio/Sift)** *(In Progress)* — Fault localization tool that distills chain-of-thought reasoning from a Claude teacher into a QLoRA-finetuned 3B student to pinpoint the exact file and line range responsible for a failing test. Trained on SWE-bench within a small API budget.
+
+**[up-to-date](https://github.com/JoeyPatricio/up-to-date)** *(In Progress)* — Terminal dashboard for AI, tech, and software engineering news. Pulls from RSS feeds, Hacker News, and Reddit on every launch, no accounts or paid APIs required. An optional local Ollama model summarizes the top stories into a digest. Python + Textual.
 
 **[BunnyTracker](https://bunny-tracker.app)** *(In Progress)* — Local pet monitor with real-time motion detection. Trained a TensorFlow.js classifier on a custom pixel-diff pipeline to recognize 5 rabbit behaviors. React + Node.js, deploying through CloudFlare.
 
