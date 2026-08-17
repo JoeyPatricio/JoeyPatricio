@@ -1,4 +1,4 @@
-# Joe Patricio
+# Joe Patricio (He/Him)
 
 ## Projects
 **[BunnyTracker](https://bunny-tracker.app)** *(In Progress)* -- Local pet monitor with real-time motion detection. Trained a PyTorch classifier on a custom pixel-diff pipeline to recognize 5 rabbit behaviors. React + Python, deploying through CloudFlare.
