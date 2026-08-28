@@ -1,7 +1,7 @@
 # Joe Patricio (He/Him)
 
 ## Projects
-**BunnyTracker** [Site](https://bunny-tracker.app) *(In Progress)* -- Local pet monitor with real-time motion detection. Trained a PyTorch classifier on a custom pixel-diff pipeline to recognize 5 rabbit behaviors. React + Python, deploying through CloudFlare.
+**BunnyTracker** [Site](https://bunny-tracker.app) -- Local pet monitor with real-time motion detection. Trained a PyTorch classifier on a custom pixel-diff pipeline to recognize 5 rabbit behaviors. React + Python, deploying through CloudFlare.
 
 **up-to-date** [Repo](https://github.com/JoeyPatricio/up-to-date) -- Terminal dashboard for AI, tech, and software engineering news. Pulls from RSS feeds, Hacker News, and Reddit on every launch, no accounts or paid APIs required. An optional local Ollama model summarizes the top stories into a digest. Python + Textual.
 
