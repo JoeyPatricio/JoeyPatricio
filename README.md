@@ -7,7 +7,7 @@
 
 **Welcome to America** [Site](https://welcome-to-america-lake.vercel.app) -- Immigration resource finder. Interviewed immigrants first, rewrote the information architecture based on what they said, then built it. Searchable directory of 50+ organizations, filterable by category and ZIP, with multilingual support.
 
-**Marine Debris Database** [Site](https://sssc-marine-debris-map.onrender.com/)** -- Marine Debris Database Application activly being used by 28+ scientists at the Sitka Sound Science Center. Logging, storing and visualizing 700+ real-world cleanup projects.
+**Marine Debris Database** [Site](https://sssc-marine-debris-map.onrender.com/) -- Marine Debris Database Application activly being used by 28+ scientists at the Sitka Sound Science Center. Logging, storing and visualizing 700+ real-world cleanup projects.
 
 ## Contact
 
