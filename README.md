@@ -1,13 +1,11 @@
 # Joe Patricio (He/Him)
 
 ## Projects
-**BunnyTracker** [Site](https://bunny-tracker.app) -- Local pet monitor with real-time motion detection. Trained a PyTorch classifier on a custom pixel-diff pipeline to recognize 5 rabbit behaviors. React + Python, deploying through CloudFlare.
+**Legislative Tracker** -- Legislative tracking application for Washington states 29 tribal nations to be able to understand new legislation better and faster. Leading software development on the application for the Indigenous Just Transition.
 
-**up-to-date** [Repo](https://github.com/JoeyPatricio/up-to-date) -- Terminal dashboard for AI, tech, and software engineering news. Pulls from RSS feeds, Hacker News, and Reddit on every launch, no accounts or paid APIs required. An optional local Ollama model summarizes the top stories into a digest. Python + Textual.
+**BunnyTracker** -- Local pet monitor with real-time motion detection. Classifying rabbit behaviors via ML.
 
-**Welcome to America** [Site](https://welcome-to-america-lake.vercel.app) -- Immigration resource finder. Interviewed immigrants first, rewrote the information architecture based on what they said, then built it. Searchable directory of 50+ organizations, filterable by category and ZIP, with multilingual support.
-
-**Marine Debris Database** [Site](https://sssc-marine-debris-map.onrender.com/) -- Marine Debris Database Application activly being used by 28+ scientists at the Sitka Sound Science Center. Logging, storing and visualizing 700+ real-world cleanup projects.
+**Marine Debris Database** -- Marine Debris Database Application actively being used by 28+ scientists at the Sitka Sound Science Center. Logging, storing and visualizing 700+ real-world cleanup projects.
 
 ## Contact
 
