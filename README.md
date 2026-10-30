@@ -11,7 +11,7 @@
 
 [Legislative Tracker](https://www.indigenousjusttransition.org/legislative-tracker) tracks legislation for Washington State's 29 tribal nations.
 
-[LLM Inference Performance Model](https://github.com/JoeyPatricio/llm-inference-perf-model) predicts llama.cpp prefill and decode throughput on an RTX 3060, then explains the misses with Nsight Systems and Nsight Compute.
+[LLM Inference Performance Model](https://github.com/JoeyPatricio/llm-inference-perf-model) predicts llama.cpp prefill and decode throughput on an RTX 3060.
 
 [Marine Debris Database](https://sitka-sound-science-center-marine-debris.onrender.com/) is a database built for the Sitka Sound Science Center, still used by 28+ scientists there.
 <sub>The linked demo is a public copy on a free host and can take a minute to wake up. SSSC runs its own internal deployment.</sub>
